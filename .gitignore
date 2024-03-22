@@ -2,3 +2,4 @@ pcb/*.xml
 pcb/*.zip
 case/*.svg
 pcb/production/
+pcb/wahoo30-backups

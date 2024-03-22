@@ -9,3 +9,6 @@ all of the files needed to produce the pcb should be here.
 for compiling and flashing the firmware just copy the provided `.ncl` files into the ncl/ directory when following the FAK flashing guide (available [here](https://github.com/semickolon/fak/blob/main/README.md))
 
 big shout outs to semickolon and apfel from the FAK discord!
+
+---
+TODO: case (I intend on making a 3d printable case similar to pohjolaworks' [Umo](https://github.com/pohjolaworks/Umo))
